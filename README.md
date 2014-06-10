@@ -1,4 +1,4 @@
-ross-browser-console.log for JavaScript
+cross-browser-console.log for JavaScript
 =======================================
 
 Complete cross-browser console.log()
